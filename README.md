@@ -11,5 +11,12 @@ A retail shopping mall sought to understand post-pandemic sales performance acro
 - Discover sales distribution across departments
 - Generate business recommendations
 - Build an interactive Excel dashboard
-### Dataset used
-- [Raw_dataset](raw_data.xlsx)
+### Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Slicers
+- Conditional Formatting
+- Business Analytics
+
