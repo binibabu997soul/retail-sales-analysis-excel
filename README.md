@@ -19,4 +19,18 @@ A retail shopping mall sought to understand post-pandemic sales performance acro
 - Slicers
 - Conditional Formatting
 - Business Analytics
+### Key Insights
+- Identified high-revenue product categories
+- Highlighted low-performing categories
+- Evaluated sales contribution by department
+- Recommended inventory optimization
+- Suggested strategic product placement
+### Business Recommendations
+- Focus inventory on high-performing categories.
+- Reduce excess stock in low-demand categories.
+- Improve product placement for underperforming sections.
+- Monitor category performance using dashboards.
+- Review inventory regularly to improve operational efficiency.
+
+
 
